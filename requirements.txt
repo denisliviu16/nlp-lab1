@@ -1,0 +1,8 @@
+scikit-learn
+wordcloud 
+matplotlib
+spacy
+cupy-cuda12x[ctk]>=14,<15
+pandas
+seaborn
+gensim
